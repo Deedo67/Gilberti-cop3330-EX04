@@ -30,4 +30,6 @@ public class ex04 {
         //output
         System.out.println(outputString);
     }
+    //main method end
 }
+//class end
